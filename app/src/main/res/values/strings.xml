@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AMST_1EP_2020_GRUPO1</string>
+    <string name="partida_ganada">Ha ganado una entrada al cine</string>
+    <string name="salir">Salir</string>
 </resources>

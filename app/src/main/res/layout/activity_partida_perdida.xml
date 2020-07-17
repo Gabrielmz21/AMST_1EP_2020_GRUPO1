@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+=======
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+>>>>>>> 4a06598dc045d66b371d7cd55cac3a0dc4828a29
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     android:orientation="vertical"
     tools:context=".PartidaPerdida">
 
@@ -55,3 +60,8 @@
         android:layout_height="wrap_content"
         android:text="Salir" />
 </LinearLayout>
+=======
+    tools:context=".PartidaPerdida">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+>>>>>>> 4a06598dc045d66b371d7cd55cac3a0dc4828a29
