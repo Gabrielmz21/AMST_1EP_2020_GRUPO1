@@ -15,7 +15,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.125"
-        tools:srcCompat="@drawable/Pregunta1" />
+        tools:srcCompat="@drawable/p1" />
 
     <TextView
         android:id="@+id/textView"
