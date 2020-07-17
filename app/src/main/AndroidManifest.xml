@@ -10,10 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".PartidaPerdida"></activity>
-<<<<<<< HEAD
-=======
         <activity android:name=".PartidaGanada" />
->>>>>>> 4a06598dc045d66b371d7cd55cac3a0dc4828a29
         <activity android:name=".Pregunta" />
         <activity android:name=".MainActivity">
             <intent-filter>
