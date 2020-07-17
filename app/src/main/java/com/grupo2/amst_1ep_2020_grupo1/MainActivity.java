@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Iniciar(){
-        Intent intent = new Intent(MainActivity.this, Pregunta.class);
+        Intent intent = new Intent(MainActivity.this, Pregunta1.class);
         startActivity(intent);
     }
 
