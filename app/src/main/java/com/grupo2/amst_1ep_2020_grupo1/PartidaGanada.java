@@ -11,4 +11,8 @@ public class PartidaGanada extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_partida_ganada);
     }
+
+    public void Salir(){
+
+    }
 }
